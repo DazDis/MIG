@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/adadad/MIG/MIG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/adadad/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"D:/adadad/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/adadad/MIG/MIG/Content/Blueprints/BP_ViewWindow.uasset",
+				"D:/adadad/MIG/MIG/Content/Blueprints/UI_ViewWindow.uasset",
+				"D:/adadad/MIG/MIG/Content/Blueprints/BP_Controller.uasset",
+				"D:/adadad/MIG/MIG/Content/Blueprints/UI_ChemistryElementMain.uasset",
+				"D:/adadad/MIG/MIG/Content/Data/ST_ViewWindowTexts.uasset",
+				"D:/adadad/MIG/MIG/Content/Blueprints/BP_BaseChemistryElement.uasset"
 			]
 		}
 	]
