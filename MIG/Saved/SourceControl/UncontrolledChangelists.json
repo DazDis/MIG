@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/smth/MIG/MIG/Content/MIG_City.umap",
+				"D:/smth/MIG/MIG/Content/Models/Map/mapp.uasset",
+				"D:/smth/MIG/MIG/Content/Models/Map/rastMat_017.uasset",
+				"D:/smth/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset",
+				"D:/smth/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/smth/MIG/MIG/Content/Blueprints/BP_MIG.uasset",
 				"D:/adadad/MIG/MIG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/adadad/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/adadad/MIG/MIG/Content/Blueprints/BP_ViewWindow.uasset",
