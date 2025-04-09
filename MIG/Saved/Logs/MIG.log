@@ -1567,3 +1567,902 @@ The following settings have been applied:
 [2025.04.09-19.53.48:433][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.09-19.53.48:433][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.09-19.53.48:433][359]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.04.09-19.54.37:290][554]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.04.09-19.54.37:290][554]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.04.09-19.55.20:182][ 96]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.55.20:193][ 96]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.55.43:804][499]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.55.43:804][499]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.55.56:112][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-19.55.56:173][237]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-19.55.56:181][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-19.55.56:181][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-19.55.56:181][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-19.55.56:191][237]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-19.55.56:191][237]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIG2FB4C51B4D36B9C221716F9FFB1F7CE7.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-19.55.56:199][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.038 ms (total: 723.215 ms)
+[2025.04.09-19.55.56:252][237]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-19.55.56:252][237]LogContentValidation: Enabled validators:
+[2025.04.09-19.55.56:252][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-19.55.56:252][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-19.55.56:252][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-19.55.56:252][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-19.55.56:252][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-19.55.56:252][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-19.55.56:252][237]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-19.55.57:092][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.09-19.55.57:107][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.55.57:112][283]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_42.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.55.57:115][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.55.57:152][283]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.55.57:156][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.55.57:159][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.55.57:247][284]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.55.57:257][284]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.56.08:021][928]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.09-19.56.09:127][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-19.56.09:236][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.04.09-19.56.09:261][992]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.09-19.56.09:261][992]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/VRTemplateMap9D01D6D14545F664C6148886C166CF49.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.09-19.56.09:274][992]LogFileHelpers: Saving map 'VRTemplateMap' took 0.084
+[2025.04.09-19.56.09:282][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.115 ms (total: 878.331 ms)
+[2025.04.09-19.56.09:344][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-19.56.09:344][992]LogContentValidation: Enabled validators:
+[2025.04.09-19.56.09:344][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-19.56.09:344][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-19.56.09:344][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-19.56.09:344][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-19.56.09:344][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-19.56.09:344][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-19.56.09:344][992]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.04.09-19.56.12:276][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 310.354614
+[2025.04.09-19.56.13:276][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.56.13:276][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 311.025482, Update Interval: 320.693390
+[2025.04.09-19.57.24:180][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.24:184][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.24:190][468]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_50.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.24:274][469]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.57.24:285][469]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.57.27:544][663]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.57.27:544][663]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.57.30:872][863]LogEditorTransaction: Undo Add Component
+[2025.04.09-19.57.30:906][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.30:911][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.30:916][863]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_52.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.37:616][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.37:620][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.37:626][172]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_54.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.57.39:285][268]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.57.39:286][268]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.57.58:594][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ViewWindow.BP_ViewWindow
+[2025.04.09-19.57.58:594][422]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.09-19.57.58:595][422]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.04.09-19.58.11:698][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.09-19.58.11:714][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.58.11:718][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.58.11:724][183]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_56.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.58.11:771][183]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.58.11:776][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.58.11:779][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.58.11:880][184]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.58.11:890][184]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.58.35:387][575]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.58.35:387][575]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.58.37:720][714]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.58.37:720][714]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.58.38:636][768]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.58.38:636][768]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.58.42:051][972]LogStreaming: Display: FlushAsyncLoading(553): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.58.42:051][972]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.58.43:067][ 32]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.58.43:067][ 32]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.59.00:306][ 64]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.59.00:306][ 64]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.59.02:013][166]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.59.02:014][166]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.59.21:581][336]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-19.59.21:581][336]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-19.59.46:697][839]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_70.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.59.46:702][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.59.46:706][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.59.49:537][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-19.59.49:605][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-19.59.49:613][  8]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-19.59.49:613][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-19.59.49:613][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-19.59.49:623][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-19.59.49:623][  8]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIG925BE19242953578398267A6E7419685.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-19.59.49:632][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.558 ms (total: 972.889 ms)
+[2025.04.09-19.59.49:691][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-19.59.49:691][  8]LogContentValidation: Enabled validators:
+[2025.04.09-19.59.49:691][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-19.59.49:691][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-19.59.49:691][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-19.59.49:691][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-19.59.49:691][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-19.59.49:691][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-19.59.49:691][  8]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-19.59.52:008][146]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_72.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.59.52:013][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.59.52:017][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_73.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-19.59.55:589][358]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.09-19.59.55:589][358]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.09-20.00.00:467][643]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_74.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.00:473][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.00:477][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.01:513][698]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.04.09-20.00.06:112][970]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_76.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.06:119][970]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.06:124][970]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.11:104][265]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_78.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.11:109][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.11:112][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.14:932][490]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.14:938][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_73.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.14:942][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:410][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.09-20.00.28:430][ 52]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_82.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:434][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:438][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:476][ 52]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_86.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:482][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:486][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.00.28:956][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.00.29:021][ 77]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.00.29:028][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.00.29:028][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.00.29:028][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.00.29:037][ 77]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.00.29:038][ 77]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGB41788904448DB92B81FBEB7C9AC36F0.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.00.29:045][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.654 ms (total: 1.06 sec)
+[2025.04.09-20.00.29:105][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.00.29:105][ 77]LogContentValidation: Enabled validators:
+[2025.04.09-20.00.29:106][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.00.29:106][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.00.29:106][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.00.29:106][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.00.29:106][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.00.29:106][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.00.29:106][ 77]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.00.43:476][256]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.04.09-20.00.43:476][256]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.04.09-20.01.01:716][340]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.01.01:727][340]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.01.03:078][420]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_90.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.01.03:083][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.01.03:087][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.01.03:170][421]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.01.03:170][421]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.01.23:059][609]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_94.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.01.23:064][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.01.23:071][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.01.31:423][107]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.01.31:423][107]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.01.36:776][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 634.859314
+[2025.04.09-20.01.36:992][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-20.01.36:992][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 635.058289, Update Interval: 306.657928
+[2025.04.09-20.01.55:597][537]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.01.55:598][537]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.02.06:494][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.02.06:556][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.02.06:563][175]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.02.06:563][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.02.06:563][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.02.06:573][175]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.02.06:574][175]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGA8C2B6714AB2F5ABE33AC19221EC82F6.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.02.06:582][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.507 ms (total: 1.15 sec)
+[2025.04.09-20.02.06:641][175]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.02.06:641][175]LogContentValidation: Enabled validators:
+[2025.04.09-20.02.06:641][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.02.06:641][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.02.06:641][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.02.06:641][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.02.06:641][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.02.06:641][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.02.06:641][175]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.02.18:645][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.09-20.02.18:669][888]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_106.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.02.18:674][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.02.18:677][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.02.18:717][888]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_110.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.02.18:722][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.02.18:726][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.02.18:824][889]LogStreaming: Display: FlushAsyncLoading(562): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.02.18:835][889]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.02.19:266][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.02.19:324][915]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.02.19:330][915]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.02.19:330][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.02.19:330][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.02.19:339][915]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.02.19:340][915]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGEA39D59B4BD8762F10ED4A9F53402364.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.02.19:348][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.385 ms (total: 1.23 sec)
+[2025.04.09-20.02.19:411][915]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.02.19:411][915]LogContentValidation: Enabled validators:
+[2025.04.09-20.02.19:411][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.02.19:411][915]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.02.19:411][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.02.19:411][915]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.02.19:411][915]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.02.19:411][915]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.02.19:412][915]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.04.33:521][926]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.09-20.04.33:521][926]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.09-20.05.39:820][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.05.39:874][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.05.39:881][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.05.39:881][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.05.39:881][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.05.39:891][776]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.05.39:891][776]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIG7AAD12884BE8AAF15EF509B83F3C8BB1.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.05.39:907][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.534 ms (total: 1.31 sec)
+[2025.04.09-20.05.39:975][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.05.39:975][776]LogContentValidation: Enabled validators:
+[2025.04.09-20.05.39:975][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.05.39:975][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.05.39:975][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.05.39:975][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.05.39:975][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.05.39:975][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.05.39:975][776]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.05.52:664][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.05.52:724][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.05.52:732][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.05.52:732][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.05.52:732][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.05.52:742][535]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.05.52:742][535]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIG8FCFC9754D49F9B3A544BFA527D34CA1.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.05.52:751][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.550 ms (total: 1.40 sec)
+[2025.04.09-20.05.52:811][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.05.52:811][535]LogContentValidation: Enabled validators:
+[2025.04.09-20.05.52:811][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.05.52:811][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.05.52:811][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.05.52:811][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.05.52:811][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.05.52:811][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.05.52:811][535]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.05.54:844][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.09-20.05.54:863][651]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_114.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.05.54:868][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.05.54:872][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_115.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.05.54:922][651]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_118.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.05.54:927][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.05.54:931][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.05.55:536][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.05.55:593][684]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.05.55:599][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.05.55:599][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.05.55:599][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.05.55:609][684]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.05.55:609][684]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIG857DF0A2454C8E355C05DFB437E20905.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.05.55:617][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.876 ms (total: 1.48 sec)
+[2025.04.09-20.05.55:671][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.05.55:671][684]LogContentValidation: Enabled validators:
+[2025.04.09-20.05.55:671][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.05.55:671][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.05.55:671][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.05.55:671][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.05.55:671][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.05.55:671][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.05.55:671][684]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.05.58:157][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.05.58:287][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.09-20.05.58:315][833]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.09-20.05.58:315][833]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/VRTemplateMapB69E3D5048113F830731A39FD8D7D866.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.09-20.05.58:327][833]LogFileHelpers: Saving map 'VRTemplateMap' took 0.108
+[2025.04.09-20.05.58:334][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.782 ms (total: 1.66 sec)
+[2025.04.09-20.05.58:397][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.05.58:397][833]LogContentValidation: Enabled validators:
+[2025.04.09-20.05.58:398][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.05.58:398][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.05.58:398][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.05.58:398][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.05.58:398][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.05.58:398][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.05.58:398][833]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.04.09-20.06.07:773][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-20.06.07:779][393]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.09-20.06.07:779][393]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.09-20.06.07:779][393]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.06.07:786][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007064s)
+[2025.04.09-20.06.07:786][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007101s)
+[2025.04.09-20.06.07:807][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.09-20.06.07:809][393]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.04.09-20.06.07:810][393]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.04.09-20.06.07:811][393]LogPlayLevel: PIE: World Init took: (0.001727s)
+[2025.04.09-20.06.07:812][393]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-20.06.07:812][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-20.06.07:812][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-20.06.07:812][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-20.06.07:812][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-20.06.07:812][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-20.06.07:814][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-20.06.07:823][393]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2025.04.09-20.06.07:823][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-20.06.07:823][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-20.06.07:823][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-20.06.07:824][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.09-20.06.07:824][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.09-20.06.07:825][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.09-20.06.07:825][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.09-20.06.07:825][393]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.09-20.06.07:825][393]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2025.04.09-20.06.07:826][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.09-20.06.07:828][393]LogLoad: Game class is 'VRGameMode_C'
+[2025.04.09-20.06.07:831][393]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2025.04.09-23.06.07
+[2025.04.09-20.06.07:831][393]LogWorld: Bringing up level for play took: 0.002636
+[2025.04.09-20.06.07:834][393]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.04.09-20.06.07:841][393]PIE: Server logged in
+[2025.04.09-20.06.07:842][393]PIE: Play in editor total start time 0.07 seconds.
+[2025.04.09-20.06.08:234][414]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.06.08:234][414]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.06.08:234][414]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.06.08:251][415]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.06.09:226][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.06.09:226][472]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.06.09:228][472]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.06.09:229][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.06.09:232][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-20.06.09:237][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.06.09:257][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.06.09:258][472]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.09-20.06.09:258][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.09-20.06.09:260][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.09-20.06.09:267][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.09-20.06.09:319][473]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.04.09-20.06.19:423][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.09-20.06.19:886][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.06.19:952][ 88]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Waypoint_System/BP_Spline] ([2] browsable assets)...
+[2025.04.09-20.06.19:965][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Waypoint_System/BP_Spline.BP_Spline]
+[2025.04.09-20.06.19:965][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Waypoint_System/BP_Spline]
+[2025.04.09-20.06.19:965][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Waypoint_System/BP_Spline" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset" SILENT=true
+[2025.04.09-20.06.19:983][ 88]LogSavePackage: Moving output files for package: /Game/Blueprints/Waypoint_System/BP_Spline
+[2025.04.09-20.06.19:984][ 88]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_Spline36BE6AB84E0138E5827364BFE9688F7F.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset'
+[2025.04.09-20.06.19:999][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.771 ms (total: 1.77 sec)
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: Enabled validators:
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.06.20:072][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.06.20:072][ 88]AssetCheck: /Game/Blueprints/Waypoint_System/BP_Spline Validating asset
+[2025.04.09-20.06.21:352][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-20.06.21:352][163]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.06.21:358][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005685s)
+[2025.04.09-20.06.21:358][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005717s)
+[2025.04.09-20.06.21:381][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.09-20.06.21:385][163]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.04.09-20.06.21:386][163]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.04.09-20.06.21:386][163]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2025.04.09-20.06.21:387][163]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-20.06.21:387][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-20.06.21:387][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-20.06.21:387][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-20.06.21:387][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-20.06.21:387][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-20.06.21:389][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-20.06.21:397][163]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2025.04.09-20.06.21:397][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-20.06.21:397][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-20.06.21:397][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-20.06.21:398][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.09-20.06.21:398][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.09-20.06.21:400][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.09-20.06.21:400][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.09-20.06.21:400][163]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.09-20.06.21:400][163]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2025.04.09-20.06.21:400][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.09-20.06.21:402][163]LogLoad: Game class is 'VRGameMode_C'
+[2025.04.09-20.06.21:405][163]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2025.04.09-23.06.21
+[2025.04.09-20.06.21:405][163]LogWorld: Bringing up level for play took: 0.002628
+[2025.04.09-20.06.21:407][163]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.04.09-20.06.21:410][163]PIE: Server logged in
+[2025.04.09-20.06.21:410][163]PIE: Play in editor total start time 0.058 seconds.
+[2025.04.09-20.06.26:548][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.06.26:548][467]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.06.26:548][467]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.06.26:550][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.06.26:553][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-20.06.26:559][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.06.26:584][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-20.06.26:584][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.09-20.06.26:584][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.09-20.06.26:586][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.09-20.06.26:590][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.06.26:593][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.09-20.06.26:631][468]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.04.09-20.06.28:600][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.06.28:713][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.09-20.06.28:739][586]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.09-20.06.28:739][586]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/VRTemplateMap883103334374F46F672EF2A39E128690.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.09-20.06.28:751][586]LogFileHelpers: Saving map 'VRTemplateMap' took 0.091
+[2025.04.09-20.06.28:759][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.852 ms (total: 1.93 sec)
+[2025.04.09-20.06.28:821][586]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.06.28:821][586]LogContentValidation: Enabled validators:
+[2025.04.09-20.06.28:821][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.06.28:821][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.06.28:821][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.06.28:821][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.06.28:821][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.06.28:821][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.06.28:821][586]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.04.09-20.06.37:811][123]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.06.37:822][123]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.06.51:341][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 949.420349
+[2025.04.09-20.06.51:625][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-20.06.51:625][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 949.687195, Update Interval: 302.591034
+[2025.04.09-20.07.33:937][445]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.07.33:937][445]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.07.37:842][675]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.07.37:843][675]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.08.32:877][885]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.08.32:877][885]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_MIG.BP_MIG'
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: ================================================
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Total job queries 98, among them cache hits 17 (17.35%), DDC hits 80 (81.63%), Duplicates 0 (0.00%)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Tracking 81 distinct input hashes that result in 67 distinct outputs (82.72%)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: RAM used: 82.66 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Job execution time: average 1.72 s, max 1.72 s
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 1.79
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Shader code size: average 8.291 KiB, min 4.867 KiB, max 11.715 KiB
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.79 s
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Average processing rate: 0.56 jobs/sec
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Total thread time: 0.778 s
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Total thread preprocess time: 2.138 s
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Percentage time preprocessing: 274.79%
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.09-20.09.05:997][844]LogShaderCompilers: Display:                                                  FVelocityVS - 53.05% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display:                                                  FVelocityPS - 46.95% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: === Material stats ===
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: Materials Translated:    157
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: Material Translation Only: 0.05 s (32%)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: Material Cache Hits: 21 (13%)
+[2025.04.09-20.09.05:998][844]LogShaderCompilers: Display: ================================================
+[2025.04.09-20.10.43:374][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.10.43:440][542]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.10.43:449][542]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.10.43:450][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.10.43:450][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.10.43:461][542]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.10.43:461][542]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGA2980B7D425C5F3CA2DBAEA5CB060CE4.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.10.43:475][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.195 ms (total: 2.03 sec)
+[2025.04.09-20.10.43:545][542]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.10.43:545][542]LogContentValidation: Enabled validators:
+[2025.04.09-20.10.43:545][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.10.43:545][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.10.43:545][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.10.43:545][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.10.43:545][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.10.43:546][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.10.43:546][542]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.11.04:883][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.11.04:945][814]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.11.04:953][814]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.11.04:953][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.11.04:953][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.11.04:964][814]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.11.04:965][814]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIG9F73934D42F99A7295917C85D6778D8E.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.11.04:979][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.018 ms (total: 2.13 sec)
+[2025.04.09-20.11.05:044][814]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.11.05:044][814]LogContentValidation: Enabled validators:
+[2025.04.09-20.11.05:044][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.11.05:044][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.11.05:044][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.11.05:044][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.11.05:044][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.11.05:044][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.11.05:044][814]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.11.06:386][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.09-20.11.06:406][887]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_128.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.06:411][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_121.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.06:415][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_131.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.06:478][887]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_132.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.06:483][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_125.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.06:487][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_135.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.07:145][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.11.07:205][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.11.07:212][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.11.07:212][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.11.07:212][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.11.07:223][923]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.11.07:223][923]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGF108C6F6495BE5A566B171A3BE88CA57.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.11.07:237][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.453 ms (total: 2.22 sec)
+[2025.04.09-20.11.07:303][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.11.07:303][923]LogContentValidation: Enabled validators:
+[2025.04.09-20.11.07:303][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.11.07:303][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.11.07:303][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.11.07:303][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.11.07:303][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.11.07:303][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.11.07:303][923]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.11.08:855][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-20.11.08:855][ 16]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.11.08:861][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005791s)
+[2025.04.09-20.11.08:861][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005824s)
+[2025.04.09-20.11.08:885][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.09-20.11.08:890][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.04.09-20.11.08:891][ 16]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.04.09-20.11.08:891][ 16]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2025.04.09-20.11.08:892][ 16]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-20.11.08:892][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-20.11.08:892][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-20.11.08:892][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-20.11.08:892][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-20.11.08:892][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-20.11.08:894][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-20.11.08:902][ 16]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2025.04.09-20.11.08:902][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-20.11.08:902][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-20.11.08:902][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-20.11.08:903][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.09-20.11.08:903][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.09-20.11.08:905][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.09-20.11.08:905][ 16]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.09-20.11.08:905][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.09-20.11.08:905][ 16]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2025.04.09-20.11.08:905][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.09-20.11.08:907][ 16]LogLoad: Game class is 'VRGameMode_C'
+[2025.04.09-20.11.08:910][ 16]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2025.04.09-23.11.08
+[2025.04.09-20.11.08:910][ 16]LogWorld: Bringing up level for play took: 0.002586
+[2025.04.09-20.11.08:912][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.04.09-20.11.08:915][ 16]PIE: Server logged in
+[2025.04.09-20.11.08:915][ 16]PIE: Play in editor total start time 0.06 seconds.
+[2025.04.09-20.11.33:686][498]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.11.33:687][498]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.11.33:687][498]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.11.33:704][499]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.11.34:953][574]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_1] 2400.0
+[2025.04.09-20.11.34:970][575]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_1] 2400.0
+[2025.04.09-20.11.34:970][575]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_1] 2400.0
+[2025.04.09-20.11.34:987][576]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_1] 2400.0
+[2025.04.09-20.11.35:286][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.11.35:286][592]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.11.35:287][592]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.11.35:288][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.11.35:291][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-20.11.35:297][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.11.35:325][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-20.11.35:325][592]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.09-20.11.35:326][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.09-20.11.35:327][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.09-20.11.35:332][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.11.35:334][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.09-20.11.35:378][593]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.04.09-20.11.48:069][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.11.48:129][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.11.48:139][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.11.48:139][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.11.48:139][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.11.48:151][345]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.11.48:151][345]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGEC1478E34022AC88B799BD93ACE09598.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.11.48:160][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.514 ms (total: 2.31 sec)
+[2025.04.09-20.11.48:223][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.11.48:223][345]LogContentValidation: Enabled validators:
+[2025.04.09-20.11.48:223][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.11.48:223][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.11.48:223][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.11.48:223][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.11.48:223][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.11.48:223][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.11.48:223][345]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.11.49:374][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.09-20.11.49:387][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_139.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.49:392][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_129.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.49:399][407]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_136.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.49:458][407]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_140.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.49:463][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_133.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.49:467][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_143.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.11.49:944][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.11.49:997][432]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.11.50:002][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.11.50:002][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.11.50:002][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.11.50:013][432]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.11.50:014][432]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGBA7A6C6D42C826B46FFBF9A0030E233A.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.11.50:023][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.723 ms (total: 2.39 sec)
+[2025.04.09-20.11.50:083][432]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.11.50:083][432]LogContentValidation: Enabled validators:
+[2025.04.09-20.11.50:083][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.11.50:083][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.11.50:083][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.11.50:083][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.11.50:083][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.11.50:083][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.11.50:083][432]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.11.51:340][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-20.11.51:340][507]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.11.51:345][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005644s)
+[2025.04.09-20.11.51:345][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005674s)
+[2025.04.09-20.11.51:368][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.09-20.11.51:372][507]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.04.09-20.11.51:373][507]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.04.09-20.11.51:374][507]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2025.04.09-20.11.51:375][507]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-20.11.51:375][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-20.11.51:375][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-20.11.51:375][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-20.11.51:375][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-20.11.51:375][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-20.11.51:377][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-20.11.51:384][507]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2025.04.09-20.11.51:384][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-20.11.51:384][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-20.11.51:384][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-20.11.51:384][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.09-20.11.51:384][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.04.09-20.11.51:387][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.09-20.11.51:387][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.09-20.11.51:387][507]LogInit: FAudioDevice initialized with ID 5.
+[2025.04.09-20.11.51:387][507]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2025.04.09-20.11.51:387][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.09-20.11.51:389][507]LogLoad: Game class is 'VRGameMode_C'
+[2025.04.09-20.11.51:392][507]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2025.04.09-23.11.51
+[2025.04.09-20.11.51:392][507]LogWorld: Bringing up level for play took: 0.002742
+[2025.04.09-20.11.51:395][507]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.04.09-20.11.51:397][507]PIE: Server logged in
+[2025.04.09-20.11.51:397][507]PIE: Play in editor total start time 0.06 seconds.
+[2025.04.09-20.12.09:206][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1267.286255
+[2025.04.09-20.12.09:276][576]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.12.09:276][576]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.12.09:276][576]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.12.09:291][577]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.12.10:016][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.12.10:016][619]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.12.10:017][619]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.12.10:018][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.12.10:023][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-20.12.10:029][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.12.10:054][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-20.12.10:054][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.09-20.12.10:054][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.09-20.12.10:056][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.09-20.12.10:060][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.12.10:063][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.09-20.12.10:105][620]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.04.09-20.12.10:683][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-20.12.10:683][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1268.745728, Update Interval: 304.962311
+[2025.04.09-20.12.18:141][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.12.18:211][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MIG] ([2] browsable assets)...
+[2025.04.09-20.12.18:220][101]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MIG.BP_MIG]
+[2025.04.09-20.12.18:220][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MIG]
+[2025.04.09-20.12.18:220][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MIG" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset" SILENT=true
+[2025.04.09-20.12.18:231][101]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MIG
+[2025.04.09-20.12.18:231][101]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_MIGF87F01FF4523504B4A0ABB8419DBE540.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset'
+[2025.04.09-20.12.18:246][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.386 ms (total: 2.49 sec)
+[2025.04.09-20.12.18:305][101]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.12.18:305][101]LogContentValidation: Enabled validators:
+[2025.04.09-20.12.18:305][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.12.18:305][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.12.18:305][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.12.18:305][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.12.18:305][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.12.18:305][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.12.18:305][101]AssetCheck: /Game/Blueprints/BP_MIG Validating asset
+[2025.04.09-20.13.19:114][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.13.19:165][635]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Waypoint_System/BP_Spline] ([2] browsable assets)...
+[2025.04.09-20.13.19:172][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Waypoint_System/BP_Spline.BP_Spline]
+[2025.04.09-20.13.19:172][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Waypoint_System/BP_Spline]
+[2025.04.09-20.13.19:172][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Waypoint_System/BP_Spline" FILE="../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset" SILENT=true
+[2025.04.09-20.13.19:191][635]LogSavePackage: Moving output files for package: /Game/Blueprints/Waypoint_System/BP_Spline
+[2025.04.09-20.13.19:191][635]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/BP_Spline9D341E0C43DA5808D4506B811571D60D.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset'
+[2025.04.09-20.13.19:201][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.322 ms (total: 2.58 sec)
+[2025.04.09-20.13.19:261][635]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.13.19:261][635]LogContentValidation: Enabled validators:
+[2025.04.09-20.13.19:261][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.13.19:261][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.13.19:261][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.13.19:261][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.13.19:261][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.13.19:261][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.13.19:261][635]AssetCheck: /Game/Blueprints/Waypoint_System/BP_Spline Validating asset
+[2025.04.09-20.13.23:264][874]LogPlayLevel: [PlayLevel] Compiling BP_MIG before play...
+[2025.04.09-20.13.23:345][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_147.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.13.23:348][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_137.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.13.23:354][874]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_144.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.13.23:422][874]LogActorComponent: RegisterComponentWithWorld: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_148.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.13.23:427][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_141.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.13.23:431][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_BP_MIG_C_CHILDACTOR_151.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2025.04.09-20.13.23:452][874]LogPlayLevel: [PlayLevel] Compiling BP_Spline before play...
+[2025.04.09-20.13.23:598][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.09-20.13.23:599][874]LogPlayLevel: PlayLevel: Blueprint regeneration took 345 ms (2 blueprints)
+[2025.04.09-20.13.23:599][874]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.13.23:605][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005735s)
+[2025.04.09-20.13.23:605][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005766s)
+[2025.04.09-20.13.23:625][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.04.09-20.13.23:626][874]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.04.09-20.13.23:627][874]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.04.09-20.13.23:627][874]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2025.04.09-20.13.23:628][874]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-20.13.23:628][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-20.13.23:628][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-20.13.23:628][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-20.13.23:628][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-20.13.23:628][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-20.13.23:630][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-20.13.23:638][874]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2025.04.09-20.13.23:638][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-20.13.23:638][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-20.13.23:638][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-20.13.23:638][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.04.09-20.13.23:638][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.04.09-20.13.23:641][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.04.09-20.13.23:641][874]LogInit: FAudioDevice initialized with ID 6.
+[2025.04.09-20.13.23:641][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.04.09-20.13.23:641][874]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRTemplateMap'.
+[2025.04.09-20.13.23:641][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.04.09-20.13.23:643][874]LogLoad: Game class is 'VRGameMode_C'
+[2025.04.09-20.13.23:647][874]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2025.04.09-23.13.23
+[2025.04.09-20.13.23:647][874]LogWorld: Bringing up level for play took: 0.003032
+[2025.04.09-20.13.23:649][874]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.04.09-20.13.23:651][874]PIE: Server logged in
+[2025.04.09-20.13.23:652][874]PIE: Play in editor total start time 0.4 seconds.
+[2025.04.09-20.13.36:782][658]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.13.36:782][658]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.13.36:782][658]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.13.36:799][659]LogBlueprintUserMessages: [BP_TriggerBox_Speed1_C_2] 2000.0
+[2025.04.09-20.13.38:067][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.13.38:067][732]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.04.09-20.13.38:067][732]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.38:069][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.38:074][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-20.13.38:078][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.38:103][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.13.38:104][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.04.09-20.13.38:104][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.04.09-20.13.38:106][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.04.09-20.13.38:113][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.09-20.13.38:163][733]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.04.09-20.13.40:081][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.13.40:188][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.09-20.13.40:215][847]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.09-20.13.40:216][847]LogSavePackage: Moving '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Saved/VRTemplateMapAC03C5564397AE111F61D0B405B9D9E1.tmp' to '../../../../../../Users/Arraki/GH Projects/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.09-20.13.40:228][847]LogFileHelpers: Saving map 'VRTemplateMap' took 0.087
+[2025.04.09-20.13.40:236][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.046 ms (total: 2.73 sec)
+[2025.04.09-20.13.40:294][847]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.13.40:294][847]LogContentValidation: Enabled validators:
+[2025.04.09-20.13.40:294][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.13.40:294][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.13.40:294][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.13.40:294][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.13.40:294][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.13.40:294][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.13.40:294][847]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.04.09-20.13.45:324][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.09-20.13.45:381][140]LogStall: Shutdown...
+[2025.04.09-20.13.45:381][140]LogStall: Shutdown complete.
+[2025.04.09-20.13.45:422][140]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:422][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:472][140]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.09-20.13.45:472][140]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:472][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:521][140]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.09-20.13.45:521][140]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:521][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:576][140]LogSlate: Window 'MIG - Unreal Editor' being destroyed
+[2025.04.09-20.13.45:682][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.09-20.13.45:698][140]Cmd: QUIT_EDITOR
+[2025.04.09-20.13.45:698][141]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.09-20.13.45:704][141]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.09-20.13.45:704][141]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.09-20.13.45:704][141]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.09-20.13.45:708][141]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:708][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:725][141]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.09-20.13.45:725][141]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.09-20.13.45:728][141]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:728][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:733][141]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:734][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:739][141]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:739][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:745][141]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:745][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:751][141]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:752][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:756][141]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:756][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:760][141]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.13.45:762][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.13.45:766][141]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.09-20.13.45:768][141]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.09-20.13.45:768][141]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.09-20.13.45:768][141]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.09-20.13.45:895][141]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.09-20.13.45:895][141]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.09-20.13.45:895][141]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2025.04.09-20.13.45:895][141]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.09-20.13.45:895][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.09-20.13.45:897][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.09-20.13.45:905][141]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.09-20.13.45:905][141]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.09-20.13.45:906][141]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.09-20.13.45:907][141]LogExit: Preparing to exit.
+[2025.04.09-20.13.45:946][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.45:950][141]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.09-20.13.46:797][141]LogEditorDataStorage: Deinitializing
+[2025.04.09-20.13.46:898][141]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.09-20.13.46:923][141]LogExit: Editor shut down
+[2025.04.09-20.13.46:924][141]LogExit: Transaction tracking system shut down
+[2025.04.09-20.13.47:016][141]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 1.
+[2025.04.09-20.13.47:030][141]LogExit: Object subsystem successfully closed.
+[2025.04.09-20.13.47:044][141]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.09-20.13.47:914][141]LogMemoryProfiler: Shutdown
+[2025.04.09-20.13.47:914][141]LogNetworkingProfiler: Shutdown
+[2025.04.09-20.13.47:914][141]LoadingProfiler: Shutdown
+[2025.04.09-20.13.47:914][141]LogTimingProfiler: Shutdown
+[2025.04.09-20.13.48:263][141]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.04.09-20.13.48:285][141]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.09-20.13.48:285][141]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B998EC36D-4B4C-5410-F266-79896E6A1535%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=029c95ef40b0d24dbf0ae08693b5cb40%7C5dc13905e2824bd3949e8e13ee255436%7C8b9c8138-b9bf-4dad-8189-a4207f6127eb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
