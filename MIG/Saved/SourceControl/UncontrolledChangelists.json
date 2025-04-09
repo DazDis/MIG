@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset",
+				"C:/Users/Arraki/GH Projects/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/BP_MIG.uasset",
 				"D:/smth/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset",
 				"D:/smth/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/smth/MIG/MIG/Content/Blueprints/BP_MIG.uasset",
@@ -48,8 +51,6 @@
 				"C:/git/MIG1/MIG/Content/Blueprints/Waypoint_System/BP_TriggerBox_Speed.uasset",
 				"C:/git/MIG1/MIG/Content/Blueprints/Waypoint_System/TBox_Materials/SpeedBoxMat1.uasset",
 				"C:/git/MIG1/MIG/Content/Blueprints/Waypoint_System/BP_Projectile.uasset",
-				"C:/Users/Arraki/GH Projects/MIG/MIG/Content/Blueprints/Waypoint_System/BP_Spline.uasset",
-				"C:/Users/Arraki/GH Projects/MIG/MIG/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/smth/MIG/MIG/Content/Models/Map/mapp.uasset",
 				"D:/adadad/MIG/MIG/Content/Blueprints/BP_Controller.uasset",
 				"D:/adadad/MIG/MIG/Content/Philip_George_-_Wish_You_Were_Mine__dizer_net_.uasset",
